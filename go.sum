@@ -2,3 +2,5 @@ github.com/rama2723/packer/numbers v0.0.0-20230111075710-84f6f3b62a5f h1:DchVxER
 github.com/rama2723/packer/numbers v0.0.0-20230111075710-84f6f3b62a5f/go.mod h1:czMcmWXcn++3ShiI8NgvlTLrenvw8on2xVHBRU3+8iY=
 github.com/rama2723/packer/strings v0.0.0-20230111081624-8098aa75c1da h1:7L+iL6GCFwA+IBO6OA2ILIV93EfcYtQ43/MgdXX4Q2c=
 github.com/rama2723/packer/strings v0.0.0-20230111081624-8098aa75c1da/go.mod h1:7ja5+Cnn9a4+ULqkeClbiV48ElgpNpBDGJucExIwrBg=
+github.com/rama2723/packer/strings v0.0.0-20230111082001-5dc53a2ff8d8 h1:S1Sby+ttaZvMm0OmhG32gFNMtUR44IzgBnfy9V/+Xfc=
+github.com/rama2723/packer/strings v0.0.0-20230111082001-5dc53a2ff8d8/go.mod h1:7ja5+Cnn9a4+ULqkeClbiV48ElgpNpBDGJucExIwrBg=

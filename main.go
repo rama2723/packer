@@ -16,5 +16,5 @@ func main() {
 
 	fmt.Println(strings.Reverse("callicoder"))
 
-	fmt.Println(str.Count("Go is Awesome. I love Go", "Go"))
+	//	fmt.Println(str.Count("Go is Awesome. I love Go", "Go"))
 }
